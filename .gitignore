@@ -1,0 +1,13 @@
+/.build/
+/build/
+/dist/
+/.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3*
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.jpeg
+*.png
